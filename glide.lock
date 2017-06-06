@@ -1,0 +1,19 @@
+hash: 5092af0c48f488e92961114bae9978f995fac93e6c6729f65a1d07c352ce3e72
+updated: 2017-06-06T11:03:30.478467246-07:00
+imports:
+- name: github.com/inconshreveable/mousetrap
+  version: 76626ae9c91c4f2a10f34cad8ce83ea42c93bb75
+- name: github.com/pkg/errors
+  version: 645ef00459ed84a119197bfb8d8205042c6df63d
+- name: github.com/spf13/cobra
+  version: 84f471618b363c4e298af84c2b53aa4f687c5f70
+- name: github.com/spf13/pflag
+  version: e57e3eeb33f795204c1ca35f56c44f83227c6e66
+- name: gopkg.in/mgo.v2
+  version: 3f83fa5005286a7fe593b055f0d7771a7dce4655
+  subpackages:
+  - bson
+  - internal/sasl
+  - internal/scram
+  - internal/json
+testImports: []

@@ -1,0 +1,8 @@
+package: github.com/rybit/error-inspector
+import:
+- package: github.com/pkg/errors
+  version: v0.8.0
+- package: github.com/spf13/cobra
+- package: gopkg.in/mgo.v2
+  subpackages:
+  - bson
